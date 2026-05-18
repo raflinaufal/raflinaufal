@@ -184,6 +184,6 @@ I focus on modern frontend ecosystems, modular backend architectures, DevOps wor
 
 ## ✨ Thanks for Visiting ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Let%27s+build+something+amazing+together+%F0%9F%9A%80" />
 
 </div>
