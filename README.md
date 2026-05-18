@@ -11,7 +11,7 @@
 <!-- BADGES ROW -->
 <img src="https://komarev.com/ghpvc/?username=raflinaufal&style=flat-square&color=7C3AED&label=Profile+Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers=raflinaufal?style=flat-square&color=059669&label=Followers" />
+<img src="https://img.shields.io/github/followers/raflinaufal?style=flat-square&color=059669&label=Followers" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-0EA5E9?style=flat-square" />
 &nbsp;
@@ -19,13 +19,9 @@
 
 <br/><br/>
 
-<!-- CONTACT BADGES -->
-<a href="https://wa.me/6281234567890" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-&nbsp;
+<!-- CONTACT -->
 <a href="https://github.com/raflinaufal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -38,16 +34,16 @@
 
 ## 👋 About Me
 
-I'm a **Fullstack Developer** and **IT Programmer** based in Indonesia, specializing in building robust, high-performance web applications and optimizing cloud-based deployment workflows.
+I'm a **Fullstack Developer** and **IT Programmer** based in Indonesia, passionate about building robust, high-performance web applications and optimizing deployment workflows. 
 
-I focus heavily on decoupled, modular architectures—combining high-performance backend layers with dynamic, modern frontend frameworks to deliver seamless digital solutions.
+I specialize in decoupled architectures, utilizing modern frontend frameworks alongside scalable backend environments to turn complex ideas into production-ready products.
 
-> 🦊 **Platform Note:** My primary production workflows, private enterprise codebases, and custom CI/CD setups are hosted on **GitLab**. Consequently, my GitHub activity graph remains quiet as it only reflects open-source contributions.
+> 🦊 **Note on Activity:** Most of my active production projects, proprietary enterprise work, and CI/CD pipelines are hosted on **GitLab**. Therefore, my GitHub contribution graph may not fully reflect my daily coding activity.
 
 | Area | Expertise |
 |:-----|:----------|
-| 🌐 **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS, shadcn/ui |
-| ⚙️ **Backend** | Express.js, Node.js, Decoupled / Modular Architecture |
+| 🌐 **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS |
+| ⚙️ **Backend** | Express.js, Node.js, Decoupled/Modular Architecture |
 | ☁️ **DevOps** | Docker, Nginx Reverse Proxy, GitLab CI/CD, VPS Management |
 | 🗄️ **Databases** | PostgreSQL, MySQL, Prisma ORM |
 
@@ -69,27 +65,27 @@ I focus heavily on decoupled, modular architectures—combining high-performance
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=dark" />
 </p>
 
-### 🎨 Frontend & Design UI
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 </p>
 
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,gitlab,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,gitlab,git,github,postman,vscode&theme=dark" />
 </p>
 
 </details>
@@ -103,25 +99,25 @@ I focus heavily on decoupled, modular architectures—combining high-performance
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🌐 | **Integrated Health Concierge Application** | A unified ecosystem integrating automated booking workflows and multi-domain service hubs. | `Next.js` `Express.js` `Prisma` |
-| 📦 | **Modular E-Commerce Backend System** | Scalable API with decoupled repositories, clean security practices, and custom tracking handlers. | `Express.js` `TypeScript` `PostgreSQL` |
-| 🐳 | **Automated Multi-Domain Deployment** | Containerized deployment environment leveraging secure reverse proxies and automated pipelines. | `Docker` `Nginx` `GitLab CI/CD` |
+| 🌐 | **Web Application Ecosystem** | Scalable decoupled system with Next.js frontend and Express.js backend | `Next.js` `Express.js` `Prisma` |
+| 📦 | **Modular Backend API** | High-performance RESTful API designed with a clean modular structure | `Express.js` `TypeScript` |
+| 🐳 | **Containerized Deployment** | Secure automated multi-domain deployment environment using Docker and Nginx | `Docker` `Nginx` `GitLab` |
 
 <br/>
 
-> 💡 *Note: Commercial platforms and active business logic systems are maintained within private GitLab repositories.*
+> 💡 More projects available on my [GitHub profile](https://github.com/raflinaufal)
 
 </details>
 
 ---
 
 <details>
-<summary><b>📊 &nbsp; GitLab & GitHub Statistics — click to expand</b></summary>
+<summary><b>📊 &nbsp; GitHub Statistics — click to expand</b></summary>
 
 <br/>
 
 <blockquote>
-  <p>💡 <b>Development Note:</b> The metrics below represent open-source metrics only. Day-to-day enterprise production and heavy commits are pushed directly to private GitLab nodes.</p>
+  <p>💡 <b>Aktivitas Repo:</b> Grafik di bawah ini hanya merekam kontribusi open-source. Sebagian besar development harian saya berjalan di dalam GitLab privat.</p>
 </blockquote>
 
 <div align="center">
@@ -132,6 +128,19 @@ I focus heavily on decoupled, modular architectures—combining high-performance
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raflinaufal&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=ffffff" />
 
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🏆 &nbsp; GitHub Achievements — click to expand</b></summary>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raflinaufal&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </div>
 
 </details>
