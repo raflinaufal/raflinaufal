@@ -1,13 +1,149 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raflinaufalalief204) 
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Rafli%20Naufal%20Alief&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20IT%20Programmer&descAlignY=58&descSize=18&descColor=A78BFA" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raflinaufal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raflinaufal&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflinaufal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps+%F0%9F%92%BB;Crafting+Modular+Architectures+%F0%9F%8F%97%EF%B8%8F;Optimizing+DevOps+%26+Deployment+%F0%9F%93%A6;Open+for+Freelance+Collaboration+%F0%9F%A4%9D" alt="Typing animation" />
 
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- BADGES ROW -->
+<img src="https://komarev.com/ghpvc/?username=raflinaufal&style=flat-square&color=7C3AED&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/raflinaufal?style=flat-square&color=059669&label=Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-0EA5E9?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-F59E0B?style=flat-square" />
+
+<br/><br/>
+
+<!-- CONTACT -->
+<a href="https://github.com/raflinaufal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+## 👋 About Me
+
+I'm a **Fullstack Developer** and **IT Programmer** based in Indonesia, passionate about building robust, high-performance web applications and optimizing deployment workflows. 
+
+I specialize in decoupled architectures, utilizing modern frontend frameworks alongside scalable backend environments to turn complex ideas into production-ready products.
+
+> *"I don't just write code — I engineer solutions that scale."*
+
+| Area | Expertise |
+|:-----|:----------|
+| 🌐 **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS |
+| ⚙️ **Backend** | Express.js, Node.js, Decoupled/Modular Architecture |
+| ☁️ **DevOps** | Docker, Nginx Reverse Proxy, GitLab CI/CD, VPS Management |
+| 🗄️ **Databases** | PostgreSQL, MySQL, Prisma ORM |
+
+</td>
+<td valign="center" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer coding animation" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<details>
+<summary><b>🛠️ &nbsp; Tech Stack — click to expand</b></summary>
+
+<br/>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap&theme=dark" />
+</p>
+
+### ⚙️ Backend & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,gitlab,git,github,postman,vscode&theme=dark" />
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><b>🚀 &nbsp; Featured Projects — click to expand</b></summary>
+
+<br/>
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🌐 | **Web Application Ecosystem** | Scalable decoupled system with Next.js frontend and Express.js backend | `Next.js` `Express.js` `Prisma` |
+| 📦 | **Modular Backend API** | High-performance RESTful API designed with a clean modular structure | `Express.js` `TypeScript` |
+| 🐳 | **Containerized Deployment** | Secure automated multi-domain deployment environment using Docker and Nginx | `Docker` `Nginx` `GitLab` |
+
+<br/>
+
+> 💡 More projects available on my [GitHub profile](https://github.com/raflinaufal)
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 &nbsp; GitHub Statistics — click to expand</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=raflinaufal&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raflinaufal&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=ffffff" />
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🏆 &nbsp; GitHub Achievements — click to expand</b></summary>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raflinaufal&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 &nbsp; Professional Values — click to expand</b></summary>
+
+<br/>
