@@ -38,7 +38,7 @@
 
 ## 👋 About Me
 
-[cite_start]I'm a **Fullstack Developer** and **IT Programmer** based in Indonesia[cite: 1, 2, 4]. [cite_start]I specialize in building robust, high-performance web applications and optimizing cloud-based deployment workflows[cite: 17, 18, 42].
+[cite_start]I'm a **Fullstack Developer** and **IT Programmer** based in Indonesia[cite: 1, 4]. [cite_start]I specialize in building robust, high-performance web applications and optimizing cloud-based deployment workflows[cite: 17, 18, 42].
 
 [cite_start]I focus heavily on decoupled, modular architectures—combining high-performance backend layers with dynamic, modern frontend frameworks to deliver seamless digital solutions[cite: 5, 12, 15].
 
@@ -103,8 +103,8 @@
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🌐 | **Integrated Health Concierge Application** | [cite_start]A unified ecosystem integrating automated booking workflows and multi-domain service hubs[cite: 4, 15]. | `Next.js` `Express.js` `Prisma` |
-| 📦 | **Modular E-Commerce Backend System** | [cite_start]Scalable API with decoupled repositories, clean security practices, and custom tracking handlers[cite: 5, 16]. | `Express.js` `TypeScript` `PostgreSQL` |
+| 🌐 | **Integrated Health Concierge Application** | [cite_start]A unified ecosystem integrating automated booking workflows and multi-domain service hubs[cite: 4, 15, 16]. | `Next.js` `Express.js` `Prisma` |
+| 📦 | **Modular E-Commerce Backend System** | [cite_start]Scalable API with decoupled repositories, clean security practices, and custom tracking handlers[cite: 12, 16, 23]. | `Express.js` `TypeScript` `PostgreSQL` |
 | 🐳 | **Automated Multi-Domain Deployment** | [cite_start]Containerized deployment environment leveraging secure reverse proxies and automated pipelines[cite: 17, 42]. | `Docker` `Nginx` `GitLab CI/CD` |
 
 <br/>
